@@ -1,6 +1,3 @@
-
-Here are some ideas to get you started
-
 <html>
 <body>
 <h3 style="color:red>- 🌱 I’m currently learning HTML ...</h3>
